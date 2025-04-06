@@ -1,21 +1,20 @@
-📘 Terms of Service
-Use the bot = Agree to this.
+# 📘 Terms of Service
 
-This Bot is for Fun
+**Use the bot = Agree to this.**
 
-It roasts, jokes, and teases. Don’t take it seriously. You’ve been warned.
+## This Bot is for Fun
+- It roasts, jokes, and teases. Don’t take it seriously. You’ve been warned.
 
-No Abuse
+## No Abuse
+- Don’t use the bot for spamming, harassment, or anything against Discord’s [Terms of Service](https://discord.com/terms).
 
-Don’t use the bot for spamming, harassment, or anything against Discord’s Terms of Service.
+## Bot Behavior
+- It may respond arrogantly, sarcastically, or in a weird way. That’s the whole point.
 
-Bot Behavior
+## Changes
+- We may update this at any time, and by continuing to use the bot, you agree to those updates.
 
-It may respond arrogantly, sarcastically, or in a weird way. That’s the whole point.
+---
 
-Changes
-
-We may update this at any time, and by continuing to use the bot, you agree to those updates.
-
-Enjoy the sass!
-Have issues or suggestions? Ping the dev: [minato_02312]
+**Enjoy the sass!**  
+Have issues or suggestions? Ping the dev: minato_02312
